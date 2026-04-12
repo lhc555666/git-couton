@@ -1,6 +1,0 @@
-/**
- * xxxx
- */
-public xxxx() {
-    
-}
